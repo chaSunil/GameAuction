@@ -21,8 +21,29 @@
 **참여인원** : 3명
 
 **프로젝트 개요** : 디아블로2 레저렉션 게임 경매 및 거래 사이트
-
 <br/>
 
 ***
+
+## 메인화면
+![image](https://github.com/user-attachments/assets/be748d5b-fbea-44df-9e45-26b0798c45e6)
+
+## 상품리스트
+![image](https://github.com/user-attachments/assets/d62e370e-3726-4139-b019-5287365a554c)
+
+![image](https://github.com/user-attachments/assets/6f222c1d-5163-421b-87ef-35bd1f231971)
+
+## 상품등록화면
+![image](https://github.com/user-attachments/assets/703436be-1e46-4ec2-b9cd-e0b7c0485cdb)
+
+![image](https://github.com/user-attachments/assets/db48d3b5-ad5c-4633-9e63-718db1c2620c)
+
+> 업로드완료
+
+![image](https://github.com/user-attachments/assets/790ba3b0-112f-4a7d-9b2f-498de4218093)
+
+> 이미지 최신화 시켜야함
+
+![image](https://github.com/user-attachments/assets/94870fbe-cc2e-4f9d-b6b8-87b8f9d9df48)
+
 

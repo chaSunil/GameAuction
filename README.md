@@ -42,8 +42,6 @@
 
 ![image](https://github.com/user-attachments/assets/790ba3b0-112f-4a7d-9b2f-498de4218093)
 
-> 이미지 최신화 시켜야함
-
 ![image](https://github.com/user-attachments/assets/94870fbe-cc2e-4f9d-b6b8-87b8f9d9df48)
 
 
